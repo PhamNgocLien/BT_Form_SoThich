@@ -1,0 +1,30 @@
+div.main {
+    padding: 15px 25px;
+    background-color: #D5FEFF;
+    width: 800px;
+    height: auto;
+}
+div.hobby {
+    background-color: white;
+    padding: 5px;
+}
+h2 {
+    color: white;
+    text-align: center;
+    background-color: orangered;
+    font-size: 40px;
+    margin-top: 5px;
+}
+table {
+    padding-left: 100px;
+}
+td {
+    color: blue;
+    font-size: 25px;
+}
+label {
+    color: orangered;
+}
+.button {
+    font-size: 25px;
+}
